@@ -13,3 +13,5 @@ Pythone学习
 同步方法：
 git remote add origin XXX.git  //添加远程仓库
 git pull origin master //远程库添加到本地
+
+同步失败什么鬼
