@@ -11,7 +11,6 @@ Pythone学习
 
 终于同步git库了。
 同步方法：
-git remote add origin XXX.git  //添加远程仓库
-git pull origin master //远程库添加到本地
-
-同步失败什么鬼
+1、git remote add origin XXX.git  //添加远程仓库
+2、git pull origin master //远程库添加到本地
+3、登录开始同步
